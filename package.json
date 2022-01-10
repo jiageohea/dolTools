@@ -1,0 +1,32 @@
+{
+  "name": "doltools",
+  "version": "1.0.0",
+  "description": "this is common tools for dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jiageohea",
+  "license": "ISC",
+  "dependencies": {
+    
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiageohea/dolTools.git"
+  },
+  "keywords": [
+    "tools",
+    "date",
+    "phone",
+    "mobile",
+    "address",
+    "name",
+    "users"
+  ],
+  "bugs": {
+    "url": "https://github.com/jiageohea/dolTools/issues"
+  },
+  "homepage": "https://github.com/jiageohea/dolTools#readme"
+}
